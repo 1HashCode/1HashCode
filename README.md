@@ -5,7 +5,7 @@ I am an aspiring **`full-stack developer`** with a deep love for programming. So
 
 **`Software Artisan (Developer/Problem Solver/Painter)`**
 
-## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/aafcf361-8b49-42a3-b783-6711b9c95a34) My Leetcode Profile:
+## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/aafcf361-8b49-42a3-b783-6711b9c95a34) .My Leetcode Profile:
 [![image](https://github.com/1HashCode/1HashCode/assets/154821339/90a34622-95bf-44c5-837f-2f09315af972)](https://leetcode.com/avhik/)
 
 
