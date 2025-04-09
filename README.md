@@ -17,17 +17,20 @@ I am an aspiring **`full-stack developer`** with a deep love for programming. So
 ## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/75e2591c-c076-41e7-8994-1bc706cd1fe0) Languages and Tools:
 
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/c76f5c26-70f5-4cae-902d-e894a5bb8ff4)
+![image](https://github.com/user-attachments/assets/2015d033-a2cb-4c3b-a7fd-96f6524a9b9b)
+![image](https://github.com/user-attachments/assets/9cbeb125-41a5-4f52-b107-e8d0c97ea5c3)
+![image](https://github.com/user-attachments/assets/73b82c9e-7b85-44aa-8504-ec42014905bf)
+![image](https://github.com/user-attachments/assets/59b03b13-cae0-4ca5-9b98-36f9e4a55d7a)
+![image](https://github.com/user-attachments/assets/484479df-56dc-46b9-9d85-5c9f5f56b69f)
+![image](https://github.com/1HashCode/1HashCode/assets/154821339/d941a56b-8b9b-4d92-bb21-c5d0225ca9ba)
+![image](https://github.com/user-attachments/assets/300d8c9a-8d6f-43c7-82e5-746e96ac8fa7)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/e00eb753-f127-4c7a-b90a-0bbea283e372)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/6391fe81-0947-4e03-8717-6d28e15742b9)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/93b1517a-244f-488e-a600-581bbf48bd3f)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/544d92e3-e145-472f-9c10-84df332dca6d)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/be00315f-69fd-4c20-9207-dbb041237c2e)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/7d1564d6-3cb7-4812-a8a3-f86791a3a316)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/7078d19a-5712-4f20-b935-3b8308c3aa20)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/d941a56b-8b9b-4d92-bb21-c5d0225ca9ba)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/87a998b9-bd51-4ce8-a240-6d379661c108)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/9bf842f9-f2df-4dd6-bf4c-eba20170d772)
-![image](https://github.com/1HashCode/1HashCode/assets/154821339/649a4869-3336-4319-9542-cea4521da191)
+
+
 
 # ![image](https://github.com/1HashCode/1HashCode/assets/154821339/18c72ca0-b7f6-4818-85ea-2cbf6cdb4cf1) GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=1HashCode&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
