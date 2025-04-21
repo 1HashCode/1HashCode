@@ -20,17 +20,7 @@
 **`Software Artisan (Backend Developer/Problem Solver/Painter)`**
 
 ---
-## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/aafcf361-8b49-42a3-b783-6711b9c95a34) My Leetcode Profile:
-[![image](https://github.com/1HashCode/1HashCode/assets/154821339/90a34622-95bf-44c5-837f-2f09315af972)](https://leetcode.com/avhik/)
 
----
-
-## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/ae137292-600f-421a-bb11-571044c23a2c) Connect with me:
-[![LinkedIn](https://github.com/1HashCode/1HashCode/assets/154821339/bcdc1643-82a5-4c95-86a8-db314a176889)
-](https://www.linkedin.com/in/avhik-laha-1059312b9/) [![X](https://github.com/1HashCode/1HashCode/assets/154821339/aee81c6f-1803-4049-9cba-679c08a51260)
-](https://x.com/@Avhik_Laha1) 
-
----
 
 ## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/75e2591c-c076-41e7-8994-1bc706cd1fe0) Languages and Tools:
 
@@ -47,6 +37,18 @@
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/93b1517a-244f-488e-a600-581bbf48bd3f)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/544d92e3-e145-472f-9c10-84df332dca6d)
 ![image](https://github.com/1HashCode/1HashCode/assets/154821339/be00315f-69fd-4c20-9207-dbb041237c2e)
+
+---
+
+## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/aafcf361-8b49-42a3-b783-6711b9c95a34) My Leetcode Profile:
+[![image](https://github.com/1HashCode/1HashCode/assets/154821339/90a34622-95bf-44c5-837f-2f09315af972)](https://leetcode.com/avhik/)
+
+---
+
+## ![image](https://github.com/1HashCode/1HashCode/assets/154821339/ae137292-600f-421a-bb11-571044c23a2c) Connect with me:
+[![LinkedIn](https://github.com/1HashCode/1HashCode/assets/154821339/bcdc1643-82a5-4c95-86a8-db314a176889)
+](https://www.linkedin.com/in/avhik-laha-1059312b9/) [![X](https://github.com/1HashCode/1HashCode/assets/154821339/aee81c6f-1803-4049-9cba-679c08a51260)
+](https://x.com/@Avhik_Laha1) 
 
 ---
 
