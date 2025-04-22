@@ -6,15 +6,15 @@
 ### I'm a `back-end developer` with a solid foundation in `Java`, specialising in building scalable and maintainable backend systems using `Spring Boot`. I’m passionate about creating efficient server-side applications and have hands-on experience deploying containerized applications with `Docker`.
 
 ## 🔸 Key Skills:  
-🔹` Java & Spring Boot`: Extensive experience developing robust backend systems and implementing scalable microservices architectures.
+- ` Java & Spring Boot`: Extensive experience developing robust backend systems and implementing scalable microservices architectures.
 
-🔹`Docker`: Proficient in containerizing applications to streamline deployment, scalability, and management.
+- `Docker`: Proficient in containerizing applications to streamline deployment, scalability, and management.
 
-🔹`Microservices`: Strong understanding in developing and deploying microservices-based systems that promote modularity and scalability.
+- `Microservices`: Strong understanding in developing and deploying microservices-based systems that promote modularity and scalability.
 
-🔹` Data Structures & Algorithms`: Advanced knowledge of DSA with solid problem-solving skills, contributing to writing efficient code.
+- ` Data Structures & Algorithms`: Advanced knowledge of DSA with solid problem-solving skills, contributing to writing efficient code.
 
-🔹`Databases`: Skilled in working with relational databases like MySQL and PostgreSQL and integration with backend systems.
+- `Databases`: Skilled in working with relational databases like MySQL and PostgreSQL and integration with backend systems.
 
  ---
 **`Software Artisan (Backend Developer/Problem Solver/Painter)`**
